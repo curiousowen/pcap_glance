@@ -21,11 +21,11 @@ Python 3.x
 scapy library (pip install scapy)
 
 Running the Script:
-Place your PCAP file in the same directory as analyze_pcap.py.
+Place your PCAP file in the same directory as pcap_glance.py.
 Open a terminal or command prompt.
 Run the script with the command:
 
-        python analyze_pcap.py
+        python pcap_glance.py
 
 Follow the prompts to enter the filename of your PCAP file when prompted.
 
